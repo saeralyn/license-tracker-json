@@ -16,5 +16,15 @@
     "start_time": "2026-05-25 08:34:47",
     "end_time": "2026-05-25 08:35:14",
     "pid": "20228"
+  },
+  {
+    "event": "session_completed",
+    "license_name": "Saeralyn",
+    "user": "Saeralyn",
+    "account_key": "saeralyn gmail.com",
+    "start_time": "2026-05-25 08:48:20",
+    "end_time": "2026-05-25 08:48:43",
+    "duration_minutes": 0.38,
+    "pid": "52256"
   }
 ]
